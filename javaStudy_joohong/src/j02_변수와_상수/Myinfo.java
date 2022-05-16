@@ -27,7 +27,7 @@ public class Myinfo {
 		
 		int age = 27;
 		String phone = "010-3022-4293";		
-		String address = "부산시 부산진구";
+		String address = "부산진구 전포동";
 		
 		System.out.print("이름: ");
 		System.out.print(name1);
