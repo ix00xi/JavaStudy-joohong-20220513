@@ -15,8 +15,6 @@ package j08_클래스;
  * KIA, K7, 블랙 - setColor(블루)
  * 현대자동차, 소나타, 화이트 - setColor(그레이)
  * Tesla, Model3, 레드 - setColor(그린)
- * 
- * 
  */
 
 public class CarMain {
